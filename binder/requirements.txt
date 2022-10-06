@@ -1,0 +1,3 @@
+abcd_pyhf==0.0.5
+matplotlib
+numpy
